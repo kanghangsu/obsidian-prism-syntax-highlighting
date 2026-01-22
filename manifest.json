@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-prism-syntax-highlighting",
+  "name": "Prism Syntax Highlighting",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Obsidian의 기본 구문 강조 기능을 개선하는 플러그인으로, 편집 모드와 읽기 모드 모두에서 일관되고 강화된 코드 구문 강조를 제공합니다.",
+  "author": "Prism Plugin Developer",
+  "authorUrl": "https://github.com/kanghangsu",
+  "isDesktopOnly": false,
+  "main": "main.js"
+}
